@@ -1,8 +1,8 @@
 # Plano de Ensino Ajustado: Inteligência Artificial
 
-**Professor:** Prof. Karan Luciano Silva di Pernis
-**Carga Horária:** 66 horas
-**Estrutura:** 22 encontros de 3 horas
+**Professor:** Prof. Karan Luciano Silva di Pernis  
+**Carga Horária:** 66 horas  
+**Estrutura:** 22 encontros de 3 horas  
 
 ---
 
@@ -10,8 +10,8 @@
 
 | Aula | Tema / Conteúdo |
 | :--- | :--- |
-| **01** | **Introdução:** História, Teste de Turing, IA Simbólica vs. Conexionista. |
-| **02** | **Agentes Inteligentes:** Definições, tipos de agentes e ambientes. |
+| **01** | **Apresentação:** Professor e Alunos; Apresentação do Plano de Ensino e Metodologia; **Introdução à IA:** História e Teste de Turing. |
+| **02** | **Conceitos Iniciais:** IA Simbólica vs. Conexionista; Agentes Inteligentes e Ambientes. |
 | **03** | **Resolução de Problemas I:** Definição do problema e Busca Cega (Largura/Profundidade). |
 | **04** | **Resolução de Problemas II:** Busca Heurística (A*, Greedy) e Otimização. |
 | **05** | **Representação do Conhecimento I:** Lógica Proposicional e de Predicados. |
@@ -34,9 +34,3 @@
 | **22** | **Encerramento:** Devolutiva das avaliações e fechamento de notas. |
 
 ---
-
-## Metodologia de Avaliação
-
-1.  **Avaliação 1 (30%):** Aula 11 (Metade do curso).
-2.  **Seminário (30%):** Aula 15 (Aproximadamente 2/3 do curso).
-3.  **Avaliação 2 (40%):** Aula 21 (Final do curso).
