@@ -35,4 +35,4 @@
 
 ---
 
-* Observação importante -> Plano de ensino pode sofrer alterações
+* Observação importante &rarr; Plano de ensino pode sofrer alterações para se adequar a realidade da matéria em sala.
