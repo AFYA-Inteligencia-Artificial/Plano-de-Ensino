@@ -34,3 +34,5 @@
 | **22** | **Encerramento:** Devolutiva das avaliações e fechamento de notas. |
 
 ---
+
+* Observação importante -> Plano de ensino pode sofrer alterações
