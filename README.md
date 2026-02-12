@@ -1,4 +1,4 @@
-# Plano de Ensino Ajustado: Inteligência Artificial
+# Plano de Ensino: Inteligência Artificial
 
 **Professor:** Prof. Karan Luciano Silva di Pernis  
 **Carga Horária:** 66 horas  
